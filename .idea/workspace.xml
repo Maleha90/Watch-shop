@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c0064c9-d25c-4c50-8cfd-7ca840d3ab09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/valitron" />
+      <path value="$PROJECT_DIR$/vendor/gabordemooij/redbean" />
+      <path value="$PROJECT_DIR$/vendor/ishop/core" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1vQlkGjoOqc1XMwWRktOR25TnY7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\ishop.loc\public\adminlte" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\ishop.loc\public\images" />
+      <recent name="C:\OpenServer\domains\ishop.loc\public\file_upload" />
+      <recent name="C:\OpenServer\domains\ishop.loc\public\adminlte\build" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c0064c9-d25c-4c50-8cfd-7ca840d3ab09" name="Default Changelist" comment="" />
+      <created>1626502372211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626502372211</updated>
+      <workItem from="1626502379416" duration="82000" />
+      <workItem from="1626502842690" duration="502000" />
+      <workItem from="1626511010207" duration="3439000" />
+      <workItem from="1626515407758" duration="5899000" />
+      <workItem from="1626521541119" duration="1604000" />
+      <workItem from="1626565339300" duration="18095000" />
+      <workItem from="1626584313425" duration="76000" />
+      <workItem from="1626667185735" duration="13830000" />
+      <workItem from="1626687369003" duration="2313000" />
+      <workItem from="1626703941987" duration="883000" />
+      <workItem from="1626739964234" duration="2180000" />
+      <workItem from="1626759632865" duration="4873000" />
+      <workItem from="1626765302997" duration="3874000" />
+      <workItem from="1626779896601" duration="4140000" />
+      <workItem from="1626787719154" duration="4255000" />
+      <workItem from="1626827400129" duration="10251000" />
+      <workItem from="1626838583884" duration="18432000" />
+      <workItem from="1626916740679" duration="15865000" />
+      <workItem from="1626956479628" duration="1501000" />
+      <workItem from="1626959448187" duration="2192000" />
+      <workItem from="1626962182419" duration="225000" />
+      <workItem from="1627027328036" duration="9918000" />
+      <workItem from="1627048998159" duration="841000" />
+      <workItem from="1627110150632" duration="2726000" />
+      <workItem from="1627114767299" duration="44000" />
+      <workItem from="1627206439626" duration="1854000" />
+      <workItem from="1627522308902" duration="1618000" />
+      <workItem from="1627550913517" duration="2100000" />
+      <workItem from="1627567708553" duration="405000" />
+      <workItem from="1627606882033" duration="117000" />
+      <workItem from="1628077358129" duration="604000" />
+      <workItem from="1628082268523" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
